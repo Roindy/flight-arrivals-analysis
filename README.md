@@ -26,3 +26,8 @@ python main.py
 
 ## Автор
 Roindy
+
+## Дашборды
+
+![Дашборд](images/dashboard1.png)
+![Дашборд](images/dashboard2.png)
