@@ -29,5 +29,5 @@ Roindy
 
 ## Дашборды
 
-![Дашборд](images/dashboard1.png)
-![Дашборд](images/dashboard2.png)
+![Дашборд](dashboard1.png)
+![Дашборд](dashboard2.png)
